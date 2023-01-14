@@ -1,0 +1,26 @@
+server:
+  port: 8080
+spring:
+  datasource:
+    druid:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://rm-bp194cdpn8r74c07rso.mysql.rds.aliyuncs.com:3306/reggie?serverTimezone=GMT%2B8
+      username: luyou
+      password: 20170736LYly
+
+
+
+
+
+mybatis-plus:
+  configuration:
+    map-underscore-to-camel-case: true
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+  global-config:
+    db-config:
+      id-type: ASSIGN_ID
+
+reggie:
+  path: D:\picture\
+
+

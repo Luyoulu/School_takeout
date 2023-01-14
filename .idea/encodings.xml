@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/itheima/reggie/backend" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/itheima/reggie/common/JacksonObjectMapper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/itheima/reggie/common/R.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/itheima/reggie/dto/DishDto.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/itheima/reggie/dto/SetmealDto.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/itheima/reggie/entity/Category.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/itheima/reggie/entity/Dish.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/itheima/reggie/entity/DishFlavor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/itheima/reggie/entity/Employee.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/itheima/reggie/entity/Setmeal.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/itheima/reggie/entity/SetmealDish.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/itheima/reggie/front" charset="UTF-8" />
+  </component>
+</project>
