@@ -7,6 +7,11 @@ spring:
       url: jdbc:mysql://rm-bp194cdpn8r74c07rso.mysql.rds.aliyuncs.com:3306/reggie?serverTimezone=GMT%2B8
       username: luyou
       password: 20170736LYly
+redis:
+  host: localhost
+  port: 6379
+  database: 0
+
 
 
 
